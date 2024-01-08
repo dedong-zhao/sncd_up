@@ -5,7 +5,7 @@ This repository is a companion to the course **Seminar on Neuromorphic Chip Desi
 - **Dedong Zhao**, University of Potsdam, Leibniz Institute for High Performance Microelectronics
 - **Professor Krstic Milos**, University of Potsdam, Leibniz Institute for High Performance Microelectronics
 
-## Course Schedule
+## Schedule
 - **W1:** Introduction to Neuromorphic Chip Design
 - **W2 ~ W5:** Spiking Neural Networks
 - **W6 ~ W9:** Neuromorphic Chip Design
